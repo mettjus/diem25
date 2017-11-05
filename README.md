@@ -1,0 +1,1 @@
+This repository is started as an experiment of using Github for comparison on amendment proposals.
