@@ -175,7 +175,50 @@ _Step 4_ – The DiEM25 Policy Paper is put to a vote of all members using DiEM2
 
 **Amendments to the DiEM25 PAE: **The same process applies as in the case of amendments to DiEM25's Manifesto and Organising Principles.
 
-## 6\. Amendment Process for Manifesto and the Organising Principles
+## 6\. Municipal, Regional, or National Collectives (MCs, RCs & NCs)
+
+Beyond the local and thematic work of DSCs, DiEM25 acts at the municipal, regional and national level in a manner that requires organisation transcending the capacity of DSCs – e.g. conducting campaigns at the level of cities, regions or country-wide; staffing a national press office and issuing press releases; organising rallies and putting together policy papers for cities, regions and or countries.
+
+**National Collectives**
+
+Once the movement has matured in a country, the CC may propose that a National Collective be constituted in order to take over some of the coordinating tasks. The CC’s proposal must then be validated by the VC.
+
+NCs will comprise between 10 and 16 members. Additionally, NCs may appoint people to help them with specific tasks. These people may participate in NC meetings ex officio.
+
+Initially, a Provisional National Collective will be organised by the CC in consultation with all relevant DSCs, and the initial list of members will be validated by the VC, but, within 12 months of the selection of this Provisional National Collective, elections must be held for the members. Members elected thereafter shall serve a two-year term.
+
+NC elections will be conducted using DiEM25’s voting platform and respecting the movement’s transnational character. This means that ALL DIEM25 members will have the right to participate as voters or candidates in the election of any NC. Naturally, members are encouraged to vote only in NC elections if they are familiar with the candidates and the specific country’s political environment.
+
+In order to ensure that all coordinating functions can be fulfilled by the elected NCs, candidates in the elections will be asked to apply for one of several broad fields (e.g. "Communication / PR / Social Media", "Members engagement and Organising", "Events and Logistics", "Policy development and intelligence") or as "general" candidates. The fields and distribution of seats will be decided on a per-country basis.
+
+NCs will be granted access to data about members in their country in as much as possible given
+
+applicable national and European data privacy laws, and be enabled to contact them directly.
+
+NCs can sign open letters and participate in national campaigns as long as they inform the CC first.
+
+NCs cannot decide to support or to work with other political actors in its country but can explore possible alliances with political actors. However, any such alliance must be proposed to the CC which will, then, either recommend it to the VC for validation or put the matter to an all-member vote.
+
+All policy papers coordinated by the NC must be, before being adopted, be submitted to the CC. All such policies that the CC approves will require validation by the VC. And whenever the CC objects to any aspect of a policy recommendation by an NC, the CC must put the matter to an all-member vote.
+
+**Municipal and Regional Collectives**
+
+NCs may appoint, after consultation with local members and DSCs, Municipal & Regional Collectives (MCs and RCs) which coordinate DiEM25’s activities, members and DSCs at the level of towns, cities and regions.
+
+**Purpose of MCs/RCs/NCs**
+
+Their purpose shall be to:
+
+- Improve communication of DiEM25 policies and activities at the municipal/regional and country level 
+- Communicate members’ views across Europe and to the CC 
+- Provide centralised facilities and resources to local members and DSCs 
+- Facilitate debates 
+- Generate regional and national policies in harmony to DiEM25’s Progressive Agenda for Europe, to be voted as described above 
+- Prepare all-member votes 
+- Fundraise 
+- Link DiEM25 to other political and civic actors, in coordination with the CC
+
+## 7\. Amendment Process for Manifesto and the Organising Principles
 
 Amendments of the Manifesto and of DiEM25's Organising Principles must be a carefully designed and implemented process, lest DiEM25's character and mission are inadvertently damaged.
 
@@ -189,7 +232,7 @@ Amendments of the Manifesto and of DiEM25's Organising Principles must be a care
 
 DiEM25's Organising Principles will be validated, by the VC, every year. If the VC fails to validate the Organising Principles, the CC will take note of member criticisms of the current Organising Principles and recommend amendments within six months.
 
-## 7\. Financial Governance and Legal Structure (International Association)
+## 8\. Financial Governance and Legal Structure (International Association)
 
 **Fund raising, membership dues and fund disbursements**
 
