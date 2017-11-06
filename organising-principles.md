@@ -95,43 +95,57 @@ The decisions that VC members will be called to make include those pertaining to
 
 The VC will not replace internal referenda but will help the CC by validating decisions that need to be made quickly. Indeed, all members will be consulted on most issues that are not pressing time-wise (e.g., changes to the Organising Principles, the Manifesto, membership of CC, or the content of policy papers).
 
-## 4\. DiEM25 Spontaneous Collectives (DSCs) and Municipal/Regional/National DiEM25 Committees
+## 4\. DiEM25 Spontaneous Collectives (DSCs)
 
-The idea is not new. It reflects the Scottish Enlightenment's notion of 'spontaneous order' as well as ideas or practices of self-management and cooperatives, Rick Falkvinge's 'swarms', etc.
+The idea of DiEM25’s Spontaneous Collectives reflects the ideas or practices of self-management and cooperatives, the Scottish Enlightenment’s notion of ‘spontaneous order’, as well as, Rick Falkvinge’s ‘swarms’, etc.
 
-**DSCs:** DiEM25 has given the notion of self-organising participants a new twist, combining physical meetings at Town Halls with DiEM25 spontaneous collectives (DSCs) of members keen to promote the Manifesto's goals. To remain effective and flexible, DSCs are envisaged to comprise 5 to 15 members only.
+DiEM25 seeks to combine self-organisation (i.e. spontaneously occurring horizontal structures) with the vertical integration provided by the CC, the VC and the municipal/regional/national collectives. DSCs embody the movement’s self-organising dimension. Any DiEM25 members who wish to coalesce in pursuit of DiEM25’s objectives and Manifesto principles can form a DSC with minimal constraints.
 
-**Local**: For most activities, DSCs are best suited for people who live reasonably close to one another.
+DSCs are self-governing, with no need to validate their actions from the CC. Each DSC elects one or two coordinators, ideally male and female, who will be responsible for maintaining communication between DiEM25 at large, the other DSCs, the CC and the specific DSC.
 
-**Horizontal**: DSCs are self-governing, with no need to validate their actions from the CC. Each DSC elects one person who will be responsible for maintaining communication between DiEM25 at large, the CC and the specific DSC.
+To remain effective and flexible, DSCs are envisaged to comprise 5 to 15 active members only. When a DSC reaches 16 active members, it is strongly encouraged to form a second DSC which meets in a different part of town or which works on a different issue, in order to maintain the agility of small, self-organised groups in which everyone can speak and contribute. No DSC can contain more than 50 active members.
 
-**Guidelines**: DSCs cannot promote causes or values other than those outlined in the DiEM25 Manifesto and the current DiEM25 campaign(s). To ensure that all DSC actions are in line with the Manifesto, and to have some quality control over how the public will perceive DiEM25, DSC members are obliged to ask a specified number of DiEM25 members to approve any texts/images/videos/actions destined for the public – if this peer review process approves them, the DSC member can proceed in the name of DiEM25. DiEM25's Volunteers Coordinator will make available detailed DSC Guidelines (e.g. on the peer review process), to be approved by the CC and the VC.
+Two types of DSCs are envisaged: (i) Local DSCs, founded on the basis of geographical proximity. And (ii) Thematic DSCs, based on their members’ common interest in the same policy area across Europe. Thematic DSCs may also be geographically specific (e.g. comprising members concerned with the Portuguese education system) or pan-European in scope (e.g. concentrating on climate change issues).
+
+All DSCs must respect the DSC Guidelines in Appendix A.
+
+-
+
+### APPENDIX A: DSC Guidelines
+
+DSCs embody DiEM25’s self-organising dimension. Any DiEM25 members can form a DSC with minimal constraints.
+
+The most important constraint is that DSCs cannot promote causes or values other than those outlined in the DiEM25 Manifesto, the Progressive Agenda and the current DiEM25 campaign(s). To ensure that all DSC actions are in line with the Manifesto, and to manage DiEM25’s public perception, a DSC member cannot publish any texts/images/videos/actions destined for the public on his/her own. He/she has to get at least 5 DiEM25 members' approval. These 5 can be members of the same DSC, except if a DSC has previously published questionable material.
 
 **What can a DSC do?**
 
 Essentially anything that will make DiEM25 a success:
 
 - Spread the ideas of DiEM25 (through media, internet, events, etc.)
-- Develop policy proposals to be submitted to the Forum or even to the CC
+- Develop policy proposals for the local, regional, national or European level
+- Collect policy recommendations from affected people on the ground
+- Engage in hands-on actions to help or educate locals
 - Bring in new members (asking them to register at [https://www.diem25.org/](https://www.diem25.org/))
+- Participate in demonstrations carrying DiEM25 flags, as long as the topic is in line with DiEM25's ideas
+- Reach out to local NGOs for common actions
 - Organise gatherings, debates, presentations, events, campaigns. In order to refer to these as official DiEM25 events “organised by &lt;DSC in name&gt;”, they need to be open to all DiEM25 members in the same local community, town or country.
 
 **What can a DSC **_**not**_** do?**
 - Engage in illegal activities
 - Promote ideas that violate the spirit of DiEM25's Manifesto or DiEM25's ongoing Campaigns
 - Collect or spend money outside of DiEM25's established system of collecting and spending donations
-- Use DiEM25's name, logo, platform or organisation for commercial purposes, including selling merchandise and other products or services to DiEM25 members
-- Promise or show support to other political organisations and political candidates, except if the alliance has been approved by the CC. If a DSC feels that such an alliance is important when the CC disagrees, the said DSC can ask the CC to organise a membership-wide referendum on the matter.
+- Use DiEM25's name, logo, platform or organisation for commercial purposes, including selling merchandise and other products or services to DiEM25 members and outsiders
+- Promise or show support to other political organisations and political candidates, except if the alliance has approved by the CC. If a majority of DSC members feel that such an alliance is important when the CC disagrees, they can ask the PNC or CC to organise a membership-wide referendum on the matter.
 - Enter contracts on behalf of DiEM25-International or otherwise engage in actions that the international level of the organisation will be held legally responsible for
 - Organise DiEM25 Assemblies (Nb. unlike gatherings or events, Assemblies are to be organised by the CC)
-- Purport to represent whole cities, regions or countries without the approval of DiEM25's CC. For this purpose, it is expected that they adopt names such as DSC London 1, DSC Barcelona 1, etc. so that when other DSCs appear in the same vicinity they can adopt the names DSC London 2, DSC Barcelona 2 etc.
-- To make clear that opinions expressed are those of the particular DSC, and not of DiEM25 for the whole region/country in which the DSC is located, DSCs will use the white background logo for public online posts, while the broader organisation will use the orange/red logo. DSCs will also sign all press releases and other materials with their DSC name or with "DiEM25 Volunteers in …", so as to distinguish them from messages by elected representatives of DiEM25.
+- Purport to represent whole cities, regions, countries or official policy makers without the approval of DiEM25's CC. For this purpose, they are assigned names such as DSC London 1, DSC Barcelona 1, etc. so that when other DSCs appear in the same vicinity they can adopt the names DSC London 2, DSC Barcelona 2 etc.
+- To make clear that opinions expressed are those of the particular DSC, and not of DiEM25 for the whole region/country in which the DSC is located, DSCs will use the white background logo for public online posts, while the broader organisation will use the orange/red logo. DSCs will also sign all press releases and other materials with their DSC name or with "DiEM25 Volunteers in …", so as to distinguish them from messages by elected representatives of DiEM25. (See details on [Social Media Rules for DSCs and Volunteers](https://diem25.org/social-media-rules/))
 
  
 
 **How to create a DSC (updated May 3, 2017)**
 
-You can view the up-to-date list of DSCs at [www.diem25.org/local-groups-dscs/][1] . Of course several DSCs can form in the same city, but an informal coordination between them would be nice. If you want to create a new DSC, go to the ["Meet Local Members" forum][2] navigate to the subforum for your country or region. Either create or answer a post about forming a DSC there. Then write an email to [volunteer@nulldiem25.org][3] in order to be added to the official DSC directory and to receive help in advertising your DSC.
+The up-to-date list of DSCs can always be found at [www.diem25.org/local-groups-dscs/](https://www.diem25.org/local-groups-dscs/) . If there is already a DSC in your city, you are still encouraged to create another one, as each DSC is supposed to have no more than 15 active members. Of course you are encouraged to coordinate informally with the other DSCs in your area or group of DiEM25 members interested in the same theme/policy area.
 
 **Principles of successful DSC meetings**
 
@@ -141,11 +155,31 @@ DSCs must strive to find answers to the question: What do DiEM25 values and prin
 
 DSCs are encouraged to discuss within them, but also across different DSCs, the rules of inclusive engagement so members are aware of them from the beginning, and to avoid having to conjure them up after anti-social and coercive behaviour is observed.
 
-**Municipal, Regional and National DiEM25 Associations**
+**Procedure to create a local DSC**
 
-DSCs are DiEM25's cells and backbone. However, DiEM25 must also organise campaigns at a municipal, regional and/or national level in a manner that requires organisation transcending the capacity of DSCs.
+Go to the [“Meet Local Members” forum](https://diem25.org/forum/viewforum.php?f=48) and navigate to the subforum for your country or region. Either create or answer a post about forming a DSC there. Then write an email to[volunteer@diem25.org](mailto:volunteer@diem25.org). If you have already had a physical meeting of at least five people, you will receive an official DSC name and listing in the directory, where others can find you. If you haven't yet had such a meeting, we can help you send a message to all DiEMers in your city in order to jump-start the process.
 
-The CC will, in consultation and jointly with all relevant DSCs, organise (as a pilot programme initially, maturing into a pan-European network) for DiEM25 members of a certain language, city, region or country to form official DiEM25 organisations for the purposes of running city, region and/or national level campaigns, e.g. _DiEM25 in the UK_, _DiEM25 in Italy_, or _DiEM25 in Dublin_. These committees will, in association with the CC and all relevant DSCs, be responsible for policies, campaigns and activities that are specific to that Municipal/Regional/National jurisdiction. All such agglomerations will need to be approved by the Validating Council (VC).
+Procedure to create a thematic DSC: Use the DiEM25 forum or any of the informal fora and gatherings in order to find at least 5 people who are interested in forming a thematic DSC with you. Then, write to [thematic@diem25.org](mailto:thematic@diem25.org) in order to receive an official DSC name and be added to the official directory, where others can find you.
+
+**Thematic DSCs**
+
+Thematic DSCs are founded around particular policy themes or issues. Members that found such a thematic DSC must choose from an approved menu of themes:
+
+1. Democracy-in-action: Democratic practices in DiEM25 & in Europe (in the context of a future European Democratic Constitution)
+2. A European New Deal for European residents, for migrants & for refugees
+3. Transparency and Technological Sovereignty
+4. Green Transition (Energy, Industry, Transport & Agriculture)
+5. Education
+6. Health
+7. Gender and sexuality
+
+Other themes can/will be added to the list above after suitable proposals are tabled with municipal/regional/national collectives or with the CC. DSCs can additionally indicate a sub-theme in their official listing.
+
+Thematic DSCs meet usually online or, whenever possible, in person in order to discuss policies and activities pertaining to the policy themes or areas that has brought their members together. All the rules and guidelines that apply to local DSCs also apply to thematic DSCs.
+
+Thematic DSCs produce proposals around their theme but do NOT author DiEM25’s policies on that theme, nor can they represent DiEM25 on that theme outside the movement. [Note: As there are many thematic DSCs on the same theme, their views and policy recommendations can and will clash. Such disagreement is essential to the process of formulating policy, as long as Thematic DSCs policy recommendations are seen as what they are: inputs into DiEM25’s internal policy creation process.]
+
+Nomenclature for Thematic DSCs: To distinguish between different Thematic DSCs of the same theme, a randomly-generated number will be assigned to them upon registration. Given that it's very probable a visitor would confuse a thematic DSC with the official group collating DiEM25's policy on a particular topic, thematic DSCs are required to add disclaimers of the style “[DSC NAME] is a group of DiEM25 volunteers who aim to forward the movement’s principles, policies and aims.” visibly on all their materials and online presences.
 
 ## 5\. DiEM25's Progressive Agenda for Europe: Assemblies-Policy Papers
 
