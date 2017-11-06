@@ -69,7 +69,25 @@ Advisors sitting on the Advisory Panel will, naturally, advise DiEM25 and facili
 
 As for nominations of new Advisors, any DiEM25 member can make suggestions to the CC which then puts these proposals up for approval by the Validating Council.
 
-## 3\. Validating Council (VC)
+## 3\. All-member votes
+
+DiEM25 strives to promote participatory democracy in the formulation of its policies and practices. Policies at all levels (local, regional, national and pan-European) are approved in all-member votes. Even when a policy concerns a local or national issue, all members (across Europe) must approve it by means of an all-member vote. This transnational approach is central to DiEM25’s raison d’être.
+
+Policies that concern one of the pillars of the Progressive Agenda will be developed & voted in line with the Progressive Agenda section of the Organising Principles. Other policies, such as DiEM25's stance on any election or referendum or issue that does not fit into one of the pillars[1](https://internal.diem25.org/en/vote/33#sdfootnote1sym) and is not obvious from the Manifesto, are decided in the following manner:
+
+1. Policy proposals can emerge either directly from the Coordinating Collective (CC) or from groups of DiEM25 members that table a proposed policy with the CC. In the latter case, the CC must decide whether the movement has an interest in considering this proposal.
+
+2. The issue must be put out to the membership for consultation and discussion.
+
+3. Following this deliberation, the various responses must be collected and synthesised into one or more policy options/proposals that are then put to an all-member vote. If no one proposal is supported by 50% of the voting members plus one, then a run-off vote is organised between the two more preferred proposals.
+
+As all-member votes normally run for 7 days and require at least another week in preparation time, urgent issues may be submitted to a Validating Council vote instead.
+
+---
+
+[1](#sdfootnote1sym) Issues explicitly excluded are those that would compell any of DiEM25's organs to meet at a certain place or time or in a certain manner, or to coerce them to work on a particular campaign.
+
+## 4\. Validating Council (VC)
 
 Some decisions transcend the CC's coordination role. E.g. a hastily drawn up press release (in response to some extraordinary event) may need the validation of the membership, proposals for new members of the Advisory Panel, or for expulsion of members who violated the principles of the Manifesto. These are not decisions to be taken by the CC as they require broader consent and validation. 
 
@@ -95,7 +113,7 @@ The decisions that VC members will be called to make include those pertaining to
 
 The VC will not replace internal referenda but will help the CC by validating decisions that need to be made quickly. Indeed, all members will be consulted on most issues that are not pressing time-wise (e.g., changes to the Organising Principles, the Manifesto, membership of CC, or the content of policy papers).
 
-## 4\. DiEM25 Spontaneous Collectives (DSCs) and Municipal/Regional/National DiEM25 Committees
+## 5\. DiEM25 Spontaneous Collectives (DSCs) and Municipal/Regional/National DiEM25 Committees
 
 The idea is not new. It reflects the Scottish Enlightenment's notion of 'spontaneous order' as well as ideas or practices of self-management and cooperatives, Rick Falkvinge's 'swarms', etc.
 
@@ -147,7 +165,7 @@ DSCs are DiEM25's cells and backbone. However, DiEM25 must also organise campaig
 
 The CC will, in consultation and jointly with all relevant DSCs, organise (as a pilot programme initially, maturing into a pan-European network) for DiEM25 members of a certain language, city, region or country to form official DiEM25 organisations for the purposes of running city, region and/or national level campaigns, e.g. _DiEM25 in the UK_, _DiEM25 in Italy_, or _DiEM25 in Dublin_. These committees will, in association with the CC and all relevant DSCs, be responsible for policies, campaigns and activities that are specific to that Municipal/Regional/National jurisdiction. All such agglomerations will need to be approved by the Validating Council (VC).
 
-## 5\. DiEM25's Progressive Agenda for Europe: Assemblies-Policy Papers
+## 6\. DiEM25's Progressive Agenda for Europe: Assemblies-Policy Papers
 
 DiEM25's political aim is to put together, from the grassroots upwards, a democratic 'Progressive Agenda for Europe' (hereafter 'PAE') addressing systematically the six systemic challenges facing the continent. Organisationally, the process of putting together the PAE will play a key role in mobilising members, experts and public opinion in the pursuit of the PAE. The six systemic challenges identified during DiEM25's Berlin inauguration on February 9, 2016 as the PAE's main pillars were:
 
@@ -175,7 +193,7 @@ _Step 4_ – The DiEM25 Policy Paper is put to a vote of all members using DiEM2
 
 **Amendments to the DiEM25 PAE: **The same process applies as in the case of amendments to DiEM25's Manifesto and Organising Principles.
 
-## 6\. Amendment Process for Manifesto and the Organising Principles
+## 7\. Amendment Process for Manifesto and the Organising Principles
 
 Amendments of the Manifesto and of DiEM25's Organising Principles must be a carefully designed and implemented process, lest DiEM25's character and mission are inadvertently damaged.
 
@@ -189,7 +207,7 @@ Amendments of the Manifesto and of DiEM25's Organising Principles must be a care
 
 DiEM25's Organising Principles will be validated, by the VC, every year. If the VC fails to validate the Organising Principles, the CC will take note of member criticisms of the current Organising Principles and recommend amendments within six months.
 
-## 7\. Financial Governance and Legal Structure (International Association)
+## 8\. Financial Governance and Legal Structure (International Association)
 
 **Fund raising, membership dues and fund disbursements**
 
