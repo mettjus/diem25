@@ -173,7 +173,7 @@ _Step 3_ – At fixed dates and in fixed cities (one per Policy Paper), a DiEM25
 
 _Step 4_ – The DiEM25 Policy Paper is put to a vote of all members using DiEM25' digital platform.
 
-**Amendments to the DiEM25 PAE: **The same process applies as in the case of amendments to DiEM25's Manifesto and Organising Principles.
+**Amendments to the DiEM25 PAE:** The same process applies as in the case of amendments to DiEM25's Manifesto and Organising Principles.
 
 ## 6\. Amendment Process for Manifesto and the Organising Principles
 
